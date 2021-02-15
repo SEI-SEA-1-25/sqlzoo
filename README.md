@@ -11,7 +11,7 @@ On Wednesday, we will be assuming you have the knowledge up to and including seg
 1. On every tutorial, you can append `?answers=true` onto the end of the url to see the answers. This is a helpful resource when you're completely stuck, but if you use it to turn this interactive learning experience into a read-along, you're not going to retain much!
 
 ### The segments:
-Segments 1 - 5 will make you awesome at SELECT basics by giving you a lot of repetitions.
+Segments 1 - 5 will make you a champion at SELECT basics by giving you a lot of repetitions.
 1. [`https://sqlzoo.net/wiki/SELECT_basics`](https://sqlzoo.net/wiki/SELECT_basics)
 2. [`https://sqlzoo.net/wiki/SELECT_Quiz`](https://sqlzoo.net/wiki/SELECT_Quiz)
 3. [`https://sqlzoo.net/wiki/SELECT_from_WORLD_Tutorial`](https://sqlzoo.net/wiki/SELECT_from_WORLD_Tutorial)

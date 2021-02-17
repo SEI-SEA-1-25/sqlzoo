@@ -31,11 +31,16 @@ Segment 6 is somewhat out of order. It relies on aggregates and nested queries, 
 
 Do segment 7 only up through question 5. As the site says, the rest of the questions are more than we need.
 7. [`https://sqlzoo.net/wiki/SELECT_within_SELECT_Tutorial`](https://sqlzoo.net/wiki/SELECT_within_SELECT_Tutorial)
+On number five, the solution from the tuturial video didn't work, but the one from the cheatsheet did (attached picture shows the tutorial solution)
+![Segment7](pics/Segment7.png)
 
 For segment 8, only do questions number 4, 5, and 6.
 
 8. [`https://sqlzoo.net/wiki/Nested_SELECT_Quiz`](https://sqlzoo.net/wiki/Nested_SELECT_Quiz)
+For questions 4, 5, and 6
+![Segment8](pics/Segment8.png)
 9. [`https://sqlzoo.net/wiki/SUM_and_COUNT`](https://sqlzoo.net/wiki/SUM_and_COUNT)
+
 10. [`https://sqlzoo.net/wiki/SUM_and_COUNT_Quiz`](https://sqlzoo.net/wiki/SUM_and_COUNT_Quiz)
 11. [`https://sqlzoo.net/wiki/The_JOIN_operation`](https://sqlzoo.net/wiki/The_JOIN_operation)
 12. [`https://sqlzoo.net/wiki/JOIN_Quiz`](https://sqlzoo.net/wiki/JOIN_Quiz)

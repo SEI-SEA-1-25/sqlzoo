@@ -13,6 +13,7 @@ On Wednesday, we will be assuming you have the knowledge up to and including seg
 ### The segments:
 Segments 1 - 5 will make you a champion at SELECT basics by giving you a lot of repetitions.
 1. [`https://sqlzoo.net/wiki/SELECT_basics`](https://sqlzoo.net/wiki/SELECT_basics)
+![Segment1](pics/Segement1.png)
 2. [`https://sqlzoo.net/wiki/SELECT_Quiz`](https://sqlzoo.net/wiki/SELECT_Quiz)
 3. [`https://sqlzoo.net/wiki/SELECT_from_WORLD_Tutorial`](https://sqlzoo.net/wiki/SELECT_from_WORLD_Tutorial)
 4. [`https://sqlzoo.net/wiki/BBC_QUIZ`](https://sqlzoo.net/wiki/BBC_QUIZ)

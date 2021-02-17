@@ -32,8 +32,5 @@ For segment 8, only do questions number 4, 5, and 6.
 10. [`https://sqlzoo.net/wiki/SUM_and_COUNT_Quiz`](https://sqlzoo.net/wiki/SUM_and_COUNT_Quiz)
 11. [`https://sqlzoo.net/wiki/The_JOIN_operation`](https://sqlzoo.net/wiki/The_JOIN_operation)
 12. [`https://sqlzoo.net/wiki/JOIN_Quiz`](https://sqlzoo.net/wiki/JOIN_Quiz)
-
-Segments 13 and 14 will be covered in class on Wednesday, and are officially due as part of the Wednesday night deliverable. But you can get ahead of the game by finishing them Tuesday night!
-
 13. [`https://sqlzoo.net/wiki/More_JOIN_operations`](https://sqlzoo.net/wiki/More_JOIN_operations)
 14. [`https://sqlzoo.net/wiki/JOIN_Quiz_2`](https://sqlzoo.net/wiki/JOIN_Quiz_2)

@@ -1,8 +1,8 @@
 # The wonderful world of sqlzoo
 https://sqlzoo.net/ is a great resource for learning sql in a rapid-feedback environment. You will be going on a guided tour of it! 
 
-### What you need to know, when you need to know it
-On Wednesday, we will be assuming you have the knowledge up to and including segment 12. Also on Wednesday, we will be covering the material needed for segments 13 - 14 in class, and you will do 13 - 14 as part of your deliverable. If you finish 13 & 14 on Tuesday night, you will be ahead of the game on Wednesday and you will save yourself some homework on Wednesday.
+### Getting started, and eventually, turning it in
+Fork and clone this repo. Your deliverable will be a screenshot of the last question you got to, similarly to when we did CSS games. Put the screenshot into this folder, and add-commit-push it just like any other file.
 
 ### Some general notes about sqlzoo:
 1. Each segment has a tutorial followed by a quiz.

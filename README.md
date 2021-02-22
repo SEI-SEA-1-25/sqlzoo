@@ -6,7 +6,7 @@ Fork and clone this repo. Your deliverable will be a screenshot of the last ques
 
 ### Some general notes about sqlzoo:
 1. Each segment has a tutorial followed by a quiz.
-1. We will not be doing all segments, and we will be skipping some questions within certain segments. Pay attention to the guided walkthrough!
+1. We will not be doing all segments, and we will be skipping some questions within certain segments. Pay attention to the guided wathrough!
 1. Many questions have a link to helpful information, or a video that explains the solution. You should look at these before attempting the questions!
 1. On every tutorial, you can append `?answers=true` onto the end of the url to see the answers. This is a helpful resource when you're completely stuck, but if you use it to turn this interactive learning experience into a read-along, you're not going to retain much!
 
